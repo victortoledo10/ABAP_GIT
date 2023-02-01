@@ -26,7 +26,7 @@ CLASS zvic_git_cl_001 IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
 
-    out->write( 'Vamosss Rafa ¡¡¡¡¡¡' ).
+    out->write( 'Vamosss Rafa ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡' ).
 
 
   ENDMETHOD.
